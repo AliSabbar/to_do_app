@@ -1,2 +1,5 @@
 *.cpp linguist-detectable=false  
 *.dart linguist-detectable=true 
+*.h linguist-detectable=false
+*CMakeLists.txt linguist-detectable=false
+*.cmake linguise-detectable=false
